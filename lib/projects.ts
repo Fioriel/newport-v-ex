@@ -47,7 +47,7 @@ export const projects = [
     year: "2024",
     description: "Web application for viewing menu items, ordering food, and managing cart for a cafe business.",
     thumbnail: "/projects/smile-cafe.jpg",
-    link: "https://cafeteria-hkg1dqqcq-monuhundlani-gmailcoms-projects.vercel.app",
+    link: "https://cafeteria-phi-blush.vercel.app",
     client: "V-ex Tech Solutions",
   },
   {
@@ -84,6 +84,7 @@ export const projects = [
     year: "2024",
     description: "Fashion e-commerce platform for browsing latest trends, shopping clothing, and managing cart.",
     thumbnail: "/projects/clothophile.jpg",
+    link: "https://flaakko-v2.web.app",
     client: "Personal Project",
   },
   {
@@ -93,7 +94,7 @@ export const projects = [
     year: "2023",
     description: "Taxi booking application with booking forms, cab selection, and trip management features.",
     thumbnail: "/projects/smart-cab.jpg",
-    link: "https://smart-cab-monuhundlani-gmailcoms-projects.vercel.app",
+    link: "https://cafeteria-phi-blush.vercel.app",
     client: "V-ex Tech Solutions",
   },
   {
@@ -113,6 +114,7 @@ export const projects = [
     year: "2024",
     description: "Digital agency website specializing in creating stunning websites and applications for businesses.",
     thumbnail: "/projects/trydo.jpg",
+    link: "https://old-metro.vercel.app",
     client: "Personal Project",
   },
   {
